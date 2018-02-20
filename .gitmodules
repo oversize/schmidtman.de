@@ -1,0 +1,3 @@
+[submodule "oversize.github.io"]
+	path = oversize.github.io
+	url = git@github.com:oversize/oversize.github.io.git
