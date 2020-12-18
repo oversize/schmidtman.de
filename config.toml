@@ -16,6 +16,10 @@ disqusShortname = "yourdiscussshortname"
 
 publishDir = "oversize.github.io"
 
+[build]
+
+  useResourceCacheWhen = "never"
+
 [params]
     author = "Manuel Schmidt"
     description = "Manuel Schmidt's personal website"
