@@ -4,3 +4,74 @@ slug = "contact"
 +++
 
 Email: [manuel@schmidtman.de](mailto:manuel@schmidtman.de)
+
+
+## GPG
+
+Key Fingerprint: `C8FCDA72D9A3F69CB77A51A76D7BE226082F846F`
+
+Find it on [openpgp.org](https://keys.openpgp.org/search?q=C8FCDA72D9A3F69CB77A51A76D7BE226082F846F)
+
+or here 
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    
+    mQGNBF4MrAwBDADc7xPTlXGYr1engFcKoiVKRWHzVPm4CWmOtl2HYfARvTOHQeb5
+    wAMBBXCS0sIajafZ2ItZcDfMOyDe9rP239Odh4bXK584snZQdSd3Nt61QcEhEMhJ
+    PvBfMnvx/qE+nDqhX5tk/YeAEO5PKLaPqvdvMQlVvNFJEqkcBRc1SYFByXJNSXM6
+    SctbkwdH3iY7YejiLJlnx7vYK1CFZ3Vcmqj3Q9R+XtdqVON3il0hzxbNZuMDh3u+
+    Ur9YpKXSW+JG6Lk8QkI5vrOzvSmK83vRhBjK9A8tZxiAjocUk3abTf112mprmVW5
+    BFJnk+H1PFD7GGFcfwvJH+45WhWKDyMFyBZ07aQubDYe0XzhaN/iPnQFg7XwEH4h
+    q8AT2yynO3REnVvHH/7YaIILOGiPMfkxXTiShJTurkZPX1codBLVsVRfoxAbph9d
+    rzzSjhrtqwR77D++pPVIyg7tvr/U3uiT780GqxlunRP27aj5dX5FvyTk95dJ4ZhN
+    L1cw1eDZhnTBQUUAEQEAAbQlTWFudWVsIFNjaG1pZHQgPG1hbnVlbEBzY2htaWR0
+    bWFuLmRlPokB1AQTAQoAPhYhBMj82nLZo/act3pRp2174iYIL4RvBQJeDKwMAhsD
+    BQkDwmcABQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEG174iYIL4RvXGkMAJ5X
+    jBRF6IbY0+odPq4497OJ/7mXP3JYHKasORift7W4FJuEiRTViir4L/k8NIaMBdYr
+    7WdV9/7KTaXdaC+CdEuiYfbtiL2uHv/AEeKmPkuiImqE9Ewv/B5yyIz6QZH/xz48
+    aJberNGC+mfKoDnhJoGZSy7Y97wRiTYJqcv3MnA1Jcf1M+0yc/Cp2CcUY3FdMjOu
+    V5XQ5RDxHCl6zURnmE7dE/qJK5pRsajYSIKQ6bjFlycMTxqcAI0HAeSlKqey/+M6
+    Wq2NzeqZ5d+B7XuqBUTmUAdY4YVXfNSlDEXejHeyno4EMJcFkHlWoi6MWKU3M2hs
+    xsSCbqEv6NciKsSnIneI4j0ZC2x4qQvhx+Abz9C3+bTCcFPjfSS3mkyOMukhgrFX
+    nH+Qz3sOe//nvfvDMtrOK1XR1HqCDBZyvUbXSMVR+ITsN7O1GRJKIRSMPTa7xRe4
+    hjq26fEWkL0CoyIOpnqfoHFMXdFsHE50jnpPVkwf8wGjyfFlChSZukMPFq/53rkB
+    jQReDKwMAQwA5OJF2jfp6svpf2fZVVlrIFYYH/GhqL5MMA4L6WEsmMN4Te+GGnGM
+    4towk/7OOTwVdEbwYlr+IPE6YkHXoVGhekBeVZVqYCkUsdiyqTFCwOYocrpisyo6
+    /izLRuoBxvpt/wt4GGZDwlFNeaPkKfwT4UOJEG0cX6Dnc4UmPSMrlvG0QUGmcVKA
+    AZrT7RNlq/K/SCnLTW91sTWFlCFcXZwU3C4nOcLPDohnFATpPjhvLXy7aXGzVGth
+    kdxkGN/eRjcxDLgfw/Akw0SxzTVsvBJIXBy82TUurum1a3ZYCKDM1clede8I4h+P
+    GxD1VJfukqUWRRFPUWFTWMyM5yqgXpjCUKvgHEG2AhMcJINeppo1FRCFFvM96Hl2
+    HZOg+ZLaDRhiPobnFqJ5QJ7YsYSoJ64mGa+O/s0DhJuvUT9D1y3QIcdYuNj7rfdy
+    d8MLm+fHVwwEdRgxLAooY5LwPwL2IzoB1acPWzXQAc8VeTEboZc1u9WoJICGlPXp
+    LSJSCI9cOlB7ABEBAAGJAbwEGAEKACYWIQTI/Npy2aP2nLd6Uadte+ImCC+EbwUC
+    XgysDAIbDAUJA8JnAAAKCRBte+ImCC+Eb/5UDADHanIoPb84Rvi6BJjvqrmzHfi0
+    CjD5wGeQJr/IryO1g8bcilG6Yl8xkcOvcAH8i0K1fQjfyjs1xF16pPHFUvG/bWcT
+    KG4toexZiD89l+jXa6WuvTAMVP+PsatraIdyfrzPxOsE2m2rrAJlJ6ehP+7yQBVU
+    Xsa4un9k8VK/davwqSy3AJo0TF8HQqUOR27UDYK4PCxVTrGkOWrJ2JECaBwDwjD0
+    3JrtMBayes0WJZAEdLVG3D6UuH306fRS+RSHcdP6Ewonz1eV0wPD7/0gIEFuGDId
+    U/R4vy9H/05MHKlPrarSkMeIjyrx/FxhNA722XEWGhhflAqNbffCXQHHkq4fcjkF
+    08nUSCq8uZ6msuy8agfLLddxFw+2/+Bo8uw3byQGqog8ZQzvgOAZaBjdSU5VR2YX
+    kZMPn7bapdto4FlZ/YSwtk2cu7nFaRXtQUsPOVYm5oh3TPZyZn7lni/zKaDOjvho
+    9J9G+boPFEitUEUQpMKH7ZqWQAzJgF1rCWuuwcw=
+    =tqNm
+    -----END PGP PUBLIC KEY BLOCK-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find me on [keybase.io](https://keybase.io/oversize)
