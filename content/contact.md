@@ -5,6 +5,8 @@ slug = "contact"
 
 Email: [manuel@schmidtman.de](mailto:manuel@schmidtman.de)
 
+Find me on [keybase.io](https://keybase.io/oversize)
+
 
 ## GPG
 
@@ -55,23 +57,3 @@ or here
     9J9G+boPFEitUEUQpMKH7ZqWQAzJgF1rCWuuwcw=
     =tqNm
     -----END PGP PUBLIC KEY BLOCK-----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Find me on [keybase.io](https://keybase.io/oversize)
